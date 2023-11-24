@@ -10,7 +10,8 @@ Start the program.
 ### Step 2:
 This lines are create a 3x3 matrix 'a' using a nested list.Each inner list represents a row in the matrix.  
 
-### Step 3: Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
+### Step 3:
+Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
 ### Step 4:
 This line prints the calculated matrix rank to the console.
 ### Step 5:
